@@ -3,12 +3,15 @@ import chainlit as cl
 from dotenv import load_dotenv
 from langchain_community.document_loaders import PyMuPDFLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI  # Updated imports
-from langchain.vectorstores import Qdrant
+from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+from langchain_community.vectorstores import Qdrant
 from qdrant_client import QdrantClient
 from qdrant_client.http.models import Distance, VectorParams
 from langchain.prompts import ChatPromptTemplate
-from langchain.chains import RetrievalQA  # Ensure this import is present
+
+# LCEL components
+from langchain.schema.runnable import RunnableLambda, RunnablePassthrough
+from operator import itemgetter
 
 # Load environment variables
 load_dotenv()
@@ -33,7 +36,7 @@ documents = text_splitter.split_documents(documents)
 
 # Set up embeddings
 EMBEDDING_MODEL = "text-embedding-ada-002"
-embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)  # Uses langchain-openai
+embeddings = OpenAIEmbeddings(model=EMBEDDING_MODEL)
 
 # Create Qdrant vector database
 LOCATION = ":memory:"
@@ -67,26 +70,35 @@ Context:
 """
 prompt = ChatPromptTemplate.from_template(template)
 
-# Set up the QA chain
-primary_qa_llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)  # Uses langchain-openai
-retrieval_augmented_qa_chain = RetrievalQA.from_chain_type(
-    llm=primary_qa_llm,
-    chain_type="stuff",
-    retriever=retriever,
-    chain_type_kwargs={"prompt": prompt}
+# Set up the LLM
+primary_qa_llm = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0)
+
+# Define a function to extract the question
+def get_question(inputs):
+    return inputs["query"]
+
+# Create the chain using LCEL syntax
+retrieval_augmented_qa_chain = (
+    # Step 1: Retrieve context based on the question
+    {"context": RunnableLambda(get_question) | retriever, "question": itemgetter("query")}
+    # Step 2: Assign the context back into inputs
+    | RunnablePassthrough()
+    # Step 3: Generate the response using the prompt and LLM
+    | prompt
+    | primary_qa_llm
 )
 
 # Chainlit integration
 @cl.on_message
 async def on_message(message: cl.Message):
-    # Use the retrieval augmented QA chain
-    response = await retrieval_augmented_qa_chain.ainvoke({"query": message.content})
+    # Prepare the input for the chain
+    inputs = {"query": message.content}
 
-    # Check if response is a dict and extract 'result'
-    if isinstance(response, dict) and 'result' in response:
-        result = response['result']
-    else:
-        result = response  # In case the response is already a string
+    # Use the retrieval augmented QA chain
+    response = await retrieval_augmented_qa_chain.ainvoke(inputs)
+
+    # Extract the content from the response
+    result = response.content if hasattr(response, 'content') else str(response)
 
     # Send the result back to Chainlit
     await cl.Message(content=result).send()
