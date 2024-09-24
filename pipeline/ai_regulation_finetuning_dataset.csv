@@ -1,0 +1,307 @@
+question,content,score
+What are the key principles of AI transparency in the AI Bill of Rights?,"the principles described in the Blueprint for an AI Bill of Rights may be necessary to comply with existing law, 
+conform to the practicalities of a specific use case, or balance competing public interests. In particular, law 
+enforcement, and other regulatory contexts may require government actors to protect civil rights, civil liberties, 
+and privacy in a manner consistent with, but using alternate mechanisms to, the specific principles discussed in",0.6944411399897
+What are the key principles of AI transparency in the AI Bill of Rights?,"civil rights, civil liberties, and privacy. The Blueprint for an AI Bill of Rights includes this Foreword, the five 
+principles, notes on Applying the The Blueprint for an AI Bill of Rights, and a Technical Companion that gives 
+concrete steps that can be taken by many kinds of organizations—from governments at all levels to companies of 
+all sizes—to uphold these values. Experts from across the private sector, governments, and international",0.673516072748113
+What are the key principles of AI transparency in the AI Bill of Rights?,"played a central role in shaping the Blueprint for an AI Bill of Rights. The core messages gleaned from these 
+discussions include that AI has transformative potential to improve Americans’ lives, and that preventing the 
+harms of these technologies is both necessary and achievable. The Appendix includes a full list of public engage-
+ments. 
+4",0.6734427669426909
+What are the key principles of AI transparency in the AI Bill of Rights?,"provide a concrete vision for actualizing the Blueprint for an AI Bill of Rights. Effectively implementing these 
+processes require the cooperation of and collaboration among industry, civil society, researchers, policymakers, 
+technologists, and the public. 
+14",0.6695450173533921
+What are the key principles of AI transparency in the AI Bill of Rights?,"govern automated systems and AI, such as the Department of Defense (DOD) AI Ethical Principles and 
+Responsible AI Implementation Pathway and the Intelligence Community (IC) AI Ethics Principles and 
+Framework. The implementation of these policies to national security and defense activities can be informed by 
+the Blueprint for an AI Bill of Rights where feasible. 
+The Blueprint for an AI Bill of Rights is not intended to, and does not, create any legal right, benefit, or",0.6676043992880278
+How does the AI Bill of Rights protect individual privacy?,"the principles described in the Blueprint for an AI Bill of Rights may be necessary to comply with existing law, 
+conform to the practicalities of a specific use case, or balance competing public interests. In particular, law 
+enforcement, and other regulatory contexts may require government actors to protect civil rights, civil liberties, 
+and privacy in a manner consistent with, but using alternate mechanisms to, the specific principles discussed in",0.7237889902486252
+How does the AI Bill of Rights protect individual privacy?,"provides examples and concrete steps for communities, industry, governments, and others to take in order to 
+build these protections into policy, practice, or the technological design process. 
+Taken together, the technical protections and practices laid out in the Blueprint for an AI Bill of Rights can help 
+guard the American public against many of the potential and actual harms identified by researchers, technolo­",0.6983976939227529
+How does the AI Bill of Rights protect individual privacy?,"civil rights, civil liberties, and privacy. The Blueprint for an AI Bill of Rights includes this Foreword, the five 
+principles, notes on Applying the The Blueprint for an AI Bill of Rights, and a Technical Companion that gives 
+concrete steps that can be taken by many kinds of organizations—from governments at all levels to companies of 
+all sizes—to uphold these values. Experts from across the private sector, governments, and international",0.6971547832816481
+How does the AI Bill of Rights protect individual privacy?,"principles for managing information about individuals have been incorporated into data privacy laws and 
+policies across the globe.5 The Blueprint for an AI Bill of Rights embraces elements of the FIPPs that are 
+particularly relevant to automated systems, without articulating a specific set of FIPPs or scoping 
+applicability or the interests served to a single particular domain, like privacy, civil rights and civil liberties,",0.6706842174168977
+How does the AI Bill of Rights protect individual privacy?,"played a central role in shaping the Blueprint for an AI Bill of Rights. The core messages gleaned from these 
+discussions include that AI has transformative potential to improve Americans’ lives, and that preventing the 
+harms of these technologies is both necessary and achievable. The Appendix includes a full list of public engage-
+ments. 
+4",0.6562387190253699
+What are the implications of AI in decision-making processes?,"•
+Seny Kamara, Associate Professor of Computer Science, Brown University
+Each panelist individually emphasized the risks of using AI in high-stakes settings, including the potential for 
+biased data and discriminatory outcomes, opaque decision-making processes, and lack of public trust and 
+understanding of the algorithmic systems. The interventions and key needs various panelists put forward as",0.5815713816903636
+What are the implications of AI in decision-making processes?,"outputs, which may be erroneous, lead to ill-founded decision-making, or amplify harmful 
+biases.  
+7. Human-AI Conﬁguration: Arrangements of or interactions between a human and an AI system 
+which can result in the human inappropriately anthropomorphizing GAI systems or experiencing 
+algorithmic aversion, automation bias, over-reliance, or emotional entanglement with GAI 
+systems. 
+8. Information Integrity: Lowered barrier to entry to generate and support the exchange and",0.5530519009962487
+What are the implications of AI in decision-making processes?,"impacts. 
+Human-AI Conﬁguration; Value 
+Chain and Component Integration 
+AI Actor Tasks: AI Deployment, AI Design, AI Impact Assessment, Aﬀected Individuals and Communities, Domain Experts, End-
+Users, Human Factors, Operation and Monitoring  
+ 
+MEASURE 1.1: Approaches and metrics for measurement of AI risks enumerated during the MAP function are selected for 
+implementation starting with the most signiﬁcant AI risks. The risks or trustworthiness characteristics that will not – or cannot – be",0.5489072087532969
+What are the implications of AI in decision-making processes?,"consequential decision-making settings like employment and lending can result in increased susceptibility by 
+systems to correlated failures (like unexpected shocks), due to multiple actors relying on the same algorithm.  
+4 Many studies have projected the impact of AI on the workforce and labor markets. Fewer studies have examined 
+the impact of GAI on the labor market, though some industry surveys indicate that that both employees and 
+employers are pondering this disruption.",0.5403210825631675
+What are the implications of AI in decision-making processes?,"state of the science of AI measurement and safety today. This document focuses on risks for which there 
+is an existing empirical evidence base at the time this proﬁle was written; for example, speculative risks 
+that may potentially arise in more advanced, future GAI systems are not considered. Future updates may 
+incorporate additional risks or provide further details on the risks identiﬁed below.",0.5317174553776045
+How should companies implement AI systems that comply with regulatory guidelines?,"consortia have published principles and frameworks to guide the responsible use of automated systems; this 
+framework provides a national values statement and toolkit that is sector-agnostic to inform building these 
+protections into policy, practice, or the technological design process.  Where existing law or policy—such as 
+sector-specific privacy laws and oversight requirements—do not already provide guidance, the Blueprint for an 
+AI Bill of Rights should be used to inform policy decisions.",0.6012804165593584
+How should companies implement AI systems that comply with regulatory guidelines?,"standards and practices that should be tailored for particular sectors and contexts.
+• This section outlines practical steps that can be implemented to realize the vision of the Blueprint for an AI Bill of Rights. The 
+expectations laid out often mirror existing practices for technology development, including pre-deployment testing, ongoing 
+monitoring, and governance structures for automated systems, but also go further to address unmet needs for change and offer",0.5811660895320958
+How should companies implement AI systems that comply with regulatory guidelines?,"with their tolerances or values. Governance tools and protocols that are applied to other types of AI 
+systems can be applied to GAI systems. These plans and actions include: 
+• Accessibility and reasonable 
+accommodations 
+• AI actor credentials and qualiﬁcations  
+• Alignment to organizational values 
+• Auditing and assessment 
+• Change-management controls 
+• Commercial use 
+• Data provenance",0.5705394975426683
+How should companies implement AI systems that comply with regulatory guidelines?,"Federal Government requires that certain federal agencies adhere to nine principles when 
+designing, developing, acquiring, or using AI for purposes other than national security or 
+defense. These principles—while taking into account the sensitive law enforcement and other contexts in which 
+the federal government may use AI, as opposed to private sector use of AI—require that AI is: (a) lawful and",0.5675453487488623
+How should companies implement AI systems that comply with regulatory guidelines?,"SAFE AND EFFECTIVE 
+SYSTEMS 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. ­
+Some U.S government agencies have developed specific frameworks for ethical use of AI 
+systems. The Department of Energy (DOE) has activated the AI Advancement Council that oversees coordina-",0.5638913967958259
+What role does NIST play in establishing AI standards?,"About AI at NIST: The National Institute of Standards and Technology (NIST) develops measurements, 
+technology, tools, and standards to advance reliable, safe, transparent, explainable, privacy-enhanced, 
+and fair artiﬁcial intelligence (AI) so that its full commercial and societal beneﬁts can be realized without 
+harm to people or the planet. NIST, which has conducted both fundamental and applied work on AI for",0.7648136634615672
+What role does NIST play in establishing AI standards?,"harmful 
+uses. 
+The 
+NIST 
+framework 
+will 
+consider 
+and 
+encompass 
+principles 
+such 
+as 
+transparency, accountability, and fairness during pre-design, design and development, deployment, use, 
+and testing and evaluation of AI technologies and systems. It is expected to be released in the winter of 2022-23. 
+21",0.6319124444357731
+What role does NIST play in establishing AI standards?,"through the Director of the National Institute of Standards and Technology (NIST), to develop a companion 
+resource to the AI RMF, NIST AI 100–1, for generative AI.",0.6133191971116426
+What role does NIST play in establishing AI standards?,"Acknowledgments: This report was accomplished with the many helpful comments and contributions 
+from the community, including the NIST Generative AI Public Working Group, and NIST staﬀ and guest 
+researchers: Chloe Autio, Jesse Dunietz, Patrick Hall, Shomik Jain, Kamie Roberts, Reva Schwartz, Martin 
+Stanley, and Elham Tabassi. 
+NIST Technical Series Policies 
+Copyright, Use, and Licensing Statements 
+NIST Technical Series Publication Identifier Syntax 
+Publication History",0.5958853786592031
+What role does NIST play in establishing AI standards?,"society by AI.19 The NIST AI Risk Management Framework, as mandated by Congress, is intended for 
+voluntary use to help incorporate trustworthiness considerations into the design, development, use, and 
+evaluation of AI products, services, and systems. The NIST framework is being developed through a consensus-
+driven, open, transparent, and collaborative process that includes workshops and other opportunities to provide",0.5921969447238551
+What should business leaders understand about AI risk management?,"best manage AI risks in a manner that is well-aligned with their goals, considers legal/regulatory 
+requirements and best practices, and reﬂects risk management priorities. Consistent with other AI RMF 
+proﬁles, this proﬁle oﬀers insights into how risk can be managed across various stages of the AI lifecycle 
+and for GAI as a technology.  
+As GAI covers risks of models or applications that can be used across use cases or sectors, this document",0.6033225791278464
+What should business leaders understand about AI risk management?,"1 
+1. 
+Introduction 
+This document is a cross-sectoral proﬁle of and companion resource for the AI Risk Management 
+Framework (AI RMF 1.0) for Generative AI,1 pursuant to President Biden’s Executive Order (EO) 14110 on 
+Safe, Secure, and Trustworthy Artiﬁcial Intelligence.2 The AI RMF was released in January 2023, and is 
+intended for voluntary use and to improve the ability of organizations to incorporate trustworthiness",0.5885740021681921
+What should business leaders understand about AI risk management?,"organizations to mitigate risks to the safety and efficacy of AI systems, both before 
+deployment and through monitoring over time.17 These innovative solutions include risk 
+assessments, auditing mechanisms, assessment of organizational procedures, dashboards to allow for ongoing 
+monitoring, documentation procedures specific to model assessments, and many other strategies that aim to",0.5728327469416138
+What should business leaders understand about AI risk management?,"57 
+National Institute of Standards and Technology (2023) AI Risk Management Framework, Appendix B: 
+How AI Risks Diﬀer from Traditional Software Risks. 
+https://airc.nist.gov/AI_RMF_Knowledge_Base/AI_RMF/Appendices/Appendix_B 
+National Institute of Standards and Technology (2023) AI RMF Playbook. 
+https://airc.nist.gov/AI_RMF_Knowledge_Base/Playbook 
+National Institue of Standards and Technology (2023) Framing Risk",0.5692041097520776
+What should business leaders understand about AI risk management?,"NIST Trustworthy and Responsible AI  
+NIST AI 600-1 
+Artificial Intelligence Risk Management 
+Framework: Generative Artificial 
+Intelligence Profile 
+ 
+ 
+ 
+This publication is available free of charge from: 
+https://doi.org/10.6028/NIST.AI.600-1 
+ 
+July 2024 
+ 
+ 
+ 
+ 
+U.S. Department of Commerce  
+Gina M. Raimondo, Secretary 
+National Institute of Standards and Technology  
+Laurie E. Locascio, NIST Director and Under Secretary of Commerce for Standards and Technology",0.5686061591011197
+How does the AI Bill of Rights address bias in AI systems?,"govern automated systems and AI, such as the Department of Defense (DOD) AI Ethical Principles and 
+Responsible AI Implementation Pathway and the Intelligence Community (IC) AI Ethics Principles and 
+Framework. The implementation of these policies to national security and defense activities can be informed by 
+the Blueprint for an AI Bill of Rights where feasible. 
+The Blueprint for an AI Bill of Rights is not intended to, and does not, create any legal right, benefit, or",0.7092779223484902
+How does the AI Bill of Rights address bias in AI systems?,"played a central role in shaping the Blueprint for an AI Bill of Rights. The core messages gleaned from these 
+discussions include that AI has transformative potential to improve Americans’ lives, and that preventing the 
+harms of these technologies is both necessary and achievable. The Appendix includes a full list of public engage-
+ments. 
+4",0.6752450976939531
+How does the AI Bill of Rights address bias in AI systems?,"provide a concrete vision for actualizing the Blueprint for an AI Bill of Rights. Effectively implementing these 
+processes require the cooperation of and collaboration among industry, civil society, researchers, policymakers, 
+technologists, and the public. 
+14",0.6702789430368116
+How does the AI Bill of Rights address bias in AI systems?,"AI Bill of Rights should be used to inform policy decisions.
+LISTENING TO THE AMERICAN PUBLIC
+The White House Office of Science and Technology Policy has led a year-long process to seek and distill input 
+from people across the country—from impacted communities and industry stakeholders to technology develop-
+ers and other experts across fields and sectors, as well as policymakers throughout the Federal government—on",0.6609596970269409
+How does the AI Bill of Rights address bias in AI systems?,"The measures taken to realize the vision set forward in this framework should be proportionate 
+with the extent and nature of the harm, or risk of harm, to people's rights, opportunities, and 
+access. 
+RELATIONSHIP TO EXISTING LAW AND POLICY
+The Blueprint for an AI Bill of Rights is an exercise in envisioning a future where the American public is 
+protected from the potential harms, and can fully enjoy the benefits, of automated systems. It describes princi­",0.6548574991908552
+What steps should organizations take to ensure AI accountability?,"organizations to mitigate risks to the safety and efficacy of AI systems, both before 
+deployment and through monitoring over time.17 These innovative solutions include risk 
+assessments, auditing mechanisms, assessment of organizational procedures, dashboards to allow for ongoing 
+monitoring, documentation procedures specific to model assessments, and many other strategies that aim to",0.5646662608562313
+What steps should organizations take to ensure AI accountability?,"and implement measures to prevent similar ones in the future, organizations could consider developing 
+guidelines for publicly available incident reporting which include information about AI actor 
+responsibilities. These guidelines would help AI system operators identify GAI incidents across the AI 
+lifecycle and with AI Actors regardless of role. Documentation and review of third-party inputs and",0.5590119160933816
+What steps should organizations take to ensure AI accountability?,"tion and advises on implementation of the DOE AI Strategy and addresses issues and/or escalations on the 
+ethical use and development of AI systems.20 The Department of Defense has adopted Artificial Intelligence 
+Ethical Principles, and tenets for Responsible Artificial Intelligence specifically tailored to its national 
+security and defense activities.21 Similarly, the U.S. Intelligence Community (IC) has developed the Principles",0.55804523763733
+What steps should organizations take to ensure AI accountability?,"SAFE AND EFFECTIVE 
+SYSTEMS 
+HOW THESE PRINCIPLES CAN MOVE INTO PRACTICE
+Real-life examples of how these principles can become reality, through laws, policies, and practical 
+technical and sociotechnical approaches to protecting rights, opportunities, and access. ­
+Some U.S government agencies have developed specific frameworks for ethical use of AI 
+systems. The Department of Energy (DOE) has activated the AI Advancement Council that oversees coordina-",0.5533592103025536
+What steps should organizations take to ensure AI accountability?,"Information Integrity 
+AI Actor Tasks: AI Development, Domain Experts, TEVV 
+ 
+MEASURE 1.3: Internal experts who did not serve as front-line developers for the system and/or independent assessors are 
+involved in regular assessments and updates. Domain experts, users, AI Actors external to the team that developed or deployed the 
+AI system, and aﬀected communities are consulted in support of assessments as necessary per organizational risk tolerance. 
+Action ID 
+Suggested Action 
+GAI Risks",0.5522712021252342
+How are AI systems validated for safety and fairness according to NIST standards?,"About AI at NIST: The National Institute of Standards and Technology (NIST) develops measurements, 
+technology, tools, and standards to advance reliable, safe, transparent, explainable, privacy-enhanced, 
+and fair artiﬁcial intelligence (AI) so that its full commercial and societal beneﬁts can be realized without 
+harm to people or the planet. NIST, which has conducted both fundamental and applied work on AI for",0.6196070057346056
+How are AI systems validated for safety and fairness according to NIST standards?,"more than a decade, is also helping to fulﬁll the 2023 Executive Order on Safe, Secure, and Trustworthy 
+AI. NIST established the U.S. AI Safety Institute and the companion AI Safety Institute Consortium to 
+continue the eﬀorts set in motion by the E.O. to build the science necessary for safe, secure, and 
+trustworthy development and use of AI. 
+Acknowledgments: This report was accomplished with the many helpful comments and contributions",0.5738194885701705
+How are AI systems validated for safety and fairness according to NIST standards?,"harmful 
+uses. 
+The 
+NIST 
+framework 
+will 
+consider 
+and 
+encompass 
+principles 
+such 
+as 
+transparency, accountability, and fairness during pre-design, design and development, deployment, use, 
+and testing and evaluation of AI technologies and systems. It is expected to be released in the winter of 2022-23. 
+21",0.5730721649005623
+How are AI systems validated for safety and fairness according to NIST standards?,"development of automated systems that adhere to and advance their safety, security and 
+effectiveness. Multiple NSF programs support research that directly addresses many of these principles: 
+the National AI Research Institutes23 support research on all aspects of safe, trustworthy, fair, and explainable 
+AI algorithms and systems; the Cyber Physical Systems24 program supports research on developing safe",0.5718503481759258
+How are AI systems validated for safety and fairness according to NIST standards?,"society by AI.19 The NIST AI Risk Management Framework, as mandated by Congress, is intended for 
+voluntary use to help incorporate trustworthiness considerations into the design, development, use, and 
+evaluation of AI products, services, and systems. The NIST framework is being developed through a consensus-
+driven, open, transparent, and collaborative process that includes workshops and other opportunities to provide",0.5709647618167969
+What kind of data protection measures are required under current AI regulations?,"and responsibilities; Special rights and considerations for intellectual property, 
+licensed works, or personal, privileged, proprietary or sensitive data; Underlying 
+foundation models, versions of underlying models, and access modes. 
+Data Privacy; Human-AI 
+Conﬁguration; Information 
+Integrity; Intellectual Property; 
+Value Chain and Component 
+Integration 
+AI Actor Tasks: Governance and Oversight",0.6030540157193889
+What kind of data protection measures are required under current AI regulations?,"match the statistical properties of real-world data without disclosing personally 
+identiﬁable information or contributing to homogenization. 
+Data Privacy; Intellectual Property; 
+Information Integrity; 
+Confabulation; Harmful Bias and 
+Homogenization 
+AI Actor Tasks: AI Deployment, AI Impact Assessment, Governance and Oversight, Operation and Monitoring 
+ 
+MANAGE 2.3: Procedures are followed to respond to and recover from a previously unknown risk when it is identiﬁed. 
+Action ID",0.5887303092652402
+What kind of data protection measures are required under current AI regulations?,"GOVERN 1.1: Legal and regulatory requirements involving AI are understood, managed, and documented.  
+Action ID 
+Suggested Action 
+GAI Risks 
+GV-1.1-001 Align GAI development and use with applicable laws and regulations, including 
+those related to data privacy, copyright and intellectual property law. 
+Data Privacy; Harmful Bias and 
+Homogenization; Intellectual 
+Property 
+AI Actor Tasks: Governance and Oversight",0.5830958798587019
+What kind of data protection measures are required under current AI regulations?,"approaches. 
+Data Privacy; Information 
+Integrity; Intellectual Property 
+GV-1.2-002 
+Establish policies to evaluate risk-relevant capabilities of GAI and robustness of 
+safety measures, both prior to deployment and on an ongoing basis, through 
+internal and external evaluations. 
+CBRN Information or Capabilities; 
+Information Security 
+AI Actor Tasks: Governance and Oversight",0.5810797172089719
+What kind of data protection measures are required under current AI regulations?,"provides examples and concrete steps for communities, industry, governments, and others to take in order to 
+build these protections into policy, practice, or the technological design process. 
+Taken together, the technical protections and practices laid out in the Blueprint for an AI Bill of Rights can help 
+guard the American public against many of the potential and actual harms identified by researchers, technolo­",0.5779255203897917
