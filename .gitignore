@@ -1,2 +1,3 @@
 .env
 pipeline/snowflake-arctic-embed-m-finetuned/model.safetensors
+midterm-env/
